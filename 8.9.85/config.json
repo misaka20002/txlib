@@ -1,11 +1,11 @@
 {
   "server": {
     "host": "0.0.0.0",
-    "port": 2535
+    "port": 5200
   },
   "share_token": true,
   "count": 1,
-  "key": "TimeRainStarSky",
+  "key": "20001",
   "auto_register": true,
   "protocol": {
     "package_name": "com.tencent.mobileqq",
