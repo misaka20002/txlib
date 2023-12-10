@@ -1,12 +1,10 @@
 {
   "server": {
     "host": "0.0.0.0",
-    "port": 5200
+    "port": 8080
   },
-  "share_token": true,
-  "count": 20001,
-  "key": "20001",
-  "auto_register": false,
+  "key": "114514",
+  "auto_register": true,
   "protocol": {
     "package_name": "com.tencent.mobileqq",
     "qua": "V1_AND_SQ_8.9.68_4264_YYB_D",
@@ -14,12 +12,12 @@
     "code": "4264"
   },
   "unidbg": {
-    "dynarmic": false,
+    "dynarmic": true,
     "unicorn": true,
     "kvm": false,
-    "debug": true
+    "debug": false
   },
   "black_list": [
-    2000108611
+    1008611
   ]
 }

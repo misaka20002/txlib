@@ -1,11 +1,9 @@
 {
   "server": {
     "host": "0.0.0.0",
-    "port": 5200
+    "port": 8080
   },
-  "share_token": true,
-  "count": 20001,
-  "key": "20001",
+  "key": "114514",
   "auto_register": true,
   "protocol": {
     "package_name": "com.tencent.tim",
@@ -14,9 +12,9 @@
     "code": "1308"
   },
   "unidbg": {
-    "dynarmic": false,
-    "kvm": false,
+    "dynarmic": true,
     "unicorn": true,
-    "debug": true
+    "kvm": false,
+    "debug": false
   }
 }
