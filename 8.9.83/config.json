@@ -14,7 +14,6 @@
   "unidbg": {
     "dynarmic": true,
     "unicorn": false,
-    "kvm": false,
     "debug": false
   },
   "black_list": [
