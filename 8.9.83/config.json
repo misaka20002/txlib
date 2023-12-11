@@ -13,7 +13,7 @@
   },
   "unidbg": {
     "dynarmic": true,
-    "unicorn": true,
+    "unicorn": false,
     "kvm": false,
     "debug": false
   },
