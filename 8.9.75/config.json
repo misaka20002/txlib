@@ -12,9 +12,10 @@
      "code": "4482" 
    }, 
    "unidbg": {
-    "dynarmic": true,
-    "unicorn": false,
-    "debug": false
+      "dynarmic": true,
+      "unicorn": true,
+      "kvm": false,
+      "debug": false
    },
    "black_list": [
      1008611
