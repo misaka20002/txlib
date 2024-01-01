@@ -1,9 +1,9 @@
 {
   "server": {
     "host": "0.0.0.0",
-    "port": 7860
+    "port": 4996
   },
-  "key": "114514",
+  "key": "XxxX",
   "auto_register": true,
   "protocol": {
     "package_name": "com.tencent.mobileqq",
@@ -13,10 +13,7 @@
   },
   "unidbg": {
     "dynarmic": true,
-    "unicorn": true,
+    "unicorn": false,
     "debug": false
-  },
-  "black_list": [
-    1008611
-  ]
+  }
 }
